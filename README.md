@@ -4,18 +4,18 @@ React Experiment Using Org-API
 This will use material UI. Will be very basic.
 
 ### TODO
-[ ] Add material UI
-[ ] ~~add db~~
-[ ] integrate to api to consume
-[ ] create custom components
-[ ] use redux
-[ ] add routing
-[ ] add inline styles
-[ ] add production server (currently using dev webpack server)
-[ ] add theme
-[ ] understand Webpack
-[ ] understand hot reload
-[ ] make it work for react native
+- [ ] Add material UI
+- [ ] ~~add db~~
+- [ ] integrate to api to consume
+- [ ] create custom components
+- [ ] use redux
+- [ ] add routing
+- [ ] add inline styles
+- [ ] add production server (currently using dev webpack server)
+- [ ] add theme
+- [ ] understand Webpack
+- [ ] understand hot reload
+- [ ] make it work for react native
 
 ### Usage
 
